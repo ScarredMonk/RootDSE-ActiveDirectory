@@ -1,4 +1,4 @@
-# Scriptdotsh-ActiveDirectory
+# ActiveDirectory Module
 This repo contains files that i refer in my blogs
 
 
